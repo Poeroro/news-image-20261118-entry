@@ -3,8 +3,9 @@
 Entry for make.fun's **news-image-20261118** bounty: sum up the world's
 news of Wednesday 18 November 2026 in one image.
 
-The image is a classic newspaper front page, drawn programmatically
-with Python and PIL (`draw_frontpage.py`), leading with the first-ever
+The image is an illustrated vintage newspaper front page (the PIL
+draft in `draw_frontpage.py` set the layout and headlines), leading
+with the first-ever
 Xi–Trump–Putin trilateral moment at the Shenzhen APEC summit, Iran's
 strikes on Gulf bases after the US hit Qeshm Island, and Ukraine's
 second-day strike on the Kerch Bridge — plus briefs on Alaska's Senate
